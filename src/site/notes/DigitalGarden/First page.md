@@ -5,4 +5,4 @@
 # Jai Sreeraam
 [[Reference_MUST/Knowledge Gaining|Knowledge Gaining]]
 
-[[Verilog_HDL/Maven_Labs/Lab_2/Lab_2|Lab_2]]
+[[Verilog_HDL/Theory/Data_Types|Data_Types]]
