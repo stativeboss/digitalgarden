@@ -5,4 +5,4 @@
 # Jai Sreeraam
 [[Reference_MUST/Knowledge Gaining|Knowledge Gaining]]
 
-[[Excalidraw/Drawing.excalidraw|Drawing.excalidraw]]
+[[Verilog_HDL/Maven_Labs/Lab_2/Lab_2|Lab_2]]
